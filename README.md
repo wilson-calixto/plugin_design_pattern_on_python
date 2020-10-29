@@ -1,2 +1,2 @@
 # plugin_design_pattern_on_python
-A practical example of implementing the plugin design pattern using the python languagea practical example of implementing the plugin design pattern using the python language
+A practical example of implementing the plugin design pattern using the python language
